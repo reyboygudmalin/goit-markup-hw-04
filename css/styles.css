@@ -393,8 +393,8 @@ img {
     justify-content: center;
 
 }
-.socialmedia_link:hover , 
-.socialmedia_link:focus{
+.socialmedia_link:hover, 
+.socialmedia_link:focus {
 background-color: var(--linkcolor);
 }
 .socmed_svg {
