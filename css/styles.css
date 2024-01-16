@@ -397,6 +397,9 @@ img {
 .socialmedia_link:focus {
 background-color: var(--linkcolor);
 }
+.socialmedia_link:focus {
+    background-color: var(--linkcolor);
+}
 .socmed_svg {
     fill: var(--sectioncolor);
 }
