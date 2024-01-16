@@ -359,3 +359,13 @@ img {
     border-top: none;
 
 }
+.first_icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 112px;
+    background-color: var(--sectioncolor);
+    border-radius: 4px;
+    margin-bottom: 8px;
+    
+}
