@@ -460,3 +460,6 @@ background-color: var(--linkcolor);
     display: block;
     text-align: center;
 }
+.fifth_section h2{
+    margin-bottom: 72px;
+}
