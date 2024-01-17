@@ -444,8 +444,8 @@ background-color: var(--linkcolor);
 }
 .customer_link:hover, 
 .customer_link:focus{
-    border-color: var(--linkcolor);
-    color: var(--linkcolor);
+    border-color: #404bbf;
+    color: #404bbf;
 
 }
 .customer_svg {
