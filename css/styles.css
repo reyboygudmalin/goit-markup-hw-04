@@ -131,7 +131,7 @@ color: var(--linkcolor);
 
 
 }
-.header_button:hover,.header_button:focus {
+.header_button:hover,.header_button:focus{
     background-color: var(--linkcolor);
     cursor: pointer;
 }
@@ -230,7 +230,7 @@ color: var(--linkcolor);
 
 }
 .portfolio_button:hover,
-.portfolio_button:focus {
+.portfolio_button:focus{
     color: var(--white);
     background-color: var(--linkcolor);
     border: 1px solid transparent;
@@ -395,11 +395,11 @@ img {
 
 }
 .socialmedia_link:hover, 
-.socialmedia_link:focus {
+.socialmedia_link:focus{
 background-color: var(--linkcolor);
 
 }
-.socialmedia_link:focus {
+.socialmedia_link:focus{
     background-color: var(--linkcolor);
 }
 .socmed_svg {
@@ -438,7 +438,7 @@ background-color: var(--linkcolor);
 
 }
 .customer_link:hover, 
-.customer_link:focus {
+.customer_link:focus{
     border-color: var(--linkcolor);
     color: var(--linkcolor);
 
@@ -502,10 +502,8 @@ background-color: var(--linkcolor);
 
 }
 .socialmedia_icon:hover,
-.socialmedia_icon:focus {
+.socialmedia_icon:focus{
    background-color: var(--Iconcolor);
-
-
 }
 .footer_icon{
     fill: var(--sectioncolor);
