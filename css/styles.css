@@ -438,7 +438,8 @@ background-color: var(--linkcolor);
     color: var(--custumercolor);
 
 }
-.customer_link:hover , .customer_link:focus {
+.customer_link:hover, 
+.customer_link:focus {
     border-color: var(--linkcolor);
     color: var(--linkcolor);
 
