@@ -403,3 +403,18 @@ background-color: var(--linkcolor);
 .socmed_svg {
     fill: var(--sectioncolor);
 }
+.fifth_section {
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+fifth_header {
+    font-size: 36px;
+    line-height: 1.11;
+    color: var(--logocolor);
+    margin-bottom: 72px;
+}
+.fifth_list {
+    display: flex;
+    gap: 24px;
+    
+}
