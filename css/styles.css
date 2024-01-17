@@ -414,12 +414,13 @@ background-color: var(--linkcolor);
     padding-bottom: 120px;
 }
 
-.fifth_section .fifth_header{
+.fifth_section .fifth-h2{
 font-size: 36px;
     line-height: 1.11;
     color: var(--logocolor);
-    text-align: center;
     margin-bottom: 72px;
+    text-align: center;
+    
 }
 .fifth_list {
     display: flex;
