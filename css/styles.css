@@ -415,6 +415,7 @@ background-color: var(--linkcolor);
     line-height: 1.11;
     color: var(--logocolor);
     margin-bottom: 72px;
+    text-align: center;
 }
 .fifth_list {
     display: flex;
