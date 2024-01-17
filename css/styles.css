@@ -413,8 +413,9 @@ background-color: var(--linkcolor);
     padding-top: 120px;
     padding-bottom: 120px;
 }
-.fifth_header {
-    font-size: 36px;
+
+.fifth_section .fifth_header{
+font-size: 36px;
     line-height: 1.11;
     color: var(--logocolor);
     text-align: center;
