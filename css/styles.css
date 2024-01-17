@@ -465,9 +465,12 @@ background-color: var(--linkcolor);
 .footer .container {
     display: flex;
     align-items: baseline;
+   
+
+
+}
+.footer_div{
     margin-right: 120px;
-
-
 }
 .footer_socialmedia{
     font-weight: 500;
