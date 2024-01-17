@@ -6,6 +6,8 @@
     --buttoncolor:#4D5AE5;
     --sectioncolor:#F4F4FD;
     --bordercolor:#e7e9fc;
+    --custumercolor:#8e8f99;
+
 
 
 }
@@ -421,5 +423,24 @@ background-color: var(--linkcolor);
 .fifth_list_item {
     width:calc((100% - 120px) / 6) ;
     height:88px ;
-    
+
+}
+.customer_link {
+    width: 100%;
+    height: 100%;
+    border: 1px solid var(--custumercolor);
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--custumercolor);
+
+}
+.customer_link:hover , .custoomer_link:focus {
+    border: var(--linkcolor);
+    color: var(--linkcolor);
+
+}
+.customer_svg {
+    fill: currentColor;
 }
