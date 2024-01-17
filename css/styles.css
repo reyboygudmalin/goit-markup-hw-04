@@ -442,12 +442,12 @@ background-color: var(--linkcolor);
     cursor: pointer;
 
 }
-/* .customer_link:hover, 
+
 .customer_link:focus{
     border-color: #404bbf;
     color: #404bbf;
 
-} */
+}
 .customer_svg {
     fill: currentColor;
 }
