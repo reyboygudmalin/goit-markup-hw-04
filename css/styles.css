@@ -442,17 +442,13 @@ background-color: var(--linkcolor);
     cursor: pointer;
 
 }
-
+.customer_link:focus,
 .customer_link:hover {
     border-color: #404bbf;
     color: #404bbf;
 
 }
-.customer_link:focus{
-    border-color: #404bbf;
-    color: #404bbf;
 
-}
 .customer_svg {
     fill: currentColor;
 }
