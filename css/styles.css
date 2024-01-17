@@ -472,6 +472,7 @@ background-color: var(--linkcolor);
 
 }
 .footer_div{
+    margin: 0;
     margin-right: 120px;
 }
 .footer_socialmedia{
