@@ -507,6 +507,10 @@ background-color: var(--linkcolor);
 .socialmedia_icon:focus{
    background-color: var(--Iconcolor);
 }
+.socialmedia_icon:focus {
+    background-color: #31d0aa;
+}
+
 .footer_icon{
     fill: var(--sectioncolor);
 
