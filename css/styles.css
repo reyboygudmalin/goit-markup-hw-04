@@ -462,7 +462,7 @@ background-color: var(--linkcolor);
 .fifth_section h2{
     margin-bottom: 72px;
 }
-.footer_div {
+.footer .container {
     display: flex;
     align-items: baseline;
     margin-right: 120px;
@@ -470,7 +470,7 @@ background-color: var(--linkcolor);
 
 }
 .footer_socialmedia{
-    font: 500;
+    font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing:0.02em ;
@@ -506,5 +506,5 @@ background-color: var(--linkcolor);
 }
 .footer_icon{
     fill: var(--sectioncolor);
-    
+
 }
