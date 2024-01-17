@@ -447,3 +447,16 @@ background-color: var(--linkcolor);
 .customer_svg {
     fill: currentColor;
 }
+.fifth_section .container{
+    flex-direction: column;
+}
+.fourth_section .container{
+    flex-direction: column;
+}
+.third_section .container{
+    flex-direction: column;
+}
+.hero .container{
+    display: block;
+    text-align: center;
+}
