@@ -392,6 +392,7 @@ img {
     display: flex;
     align-items: center;
     justify-content: center;
+    cursor: pointer;
 
 }
 .socialmedia_link:hover, 
@@ -435,6 +436,7 @@ background-color: var(--linkcolor);
     align-items: center;
     justify-content: center;
     color: var(--custumercolor);
+    cursor: pointer;
 
 }
 .customer_link:hover, 
@@ -486,10 +488,9 @@ background-color: var(--linkcolor);
     gap: 16px;
 
 }
-.socialmedia_footer_list {
-    width: 40px;
-    height: 40px;
-
+.socialmedia_footer_list{
+   height: 40px;
+   width: 40px;
 }
 .socialmedia_icon {
     width: 100%;
@@ -499,6 +500,7 @@ background-color: var(--linkcolor);
     display: flex;
     align-items: center;
     justify-content: center;
+    cursor: pointer;
 
 }
 .socialmedia_icon:hover,
