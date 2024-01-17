@@ -398,6 +398,7 @@ img {
 .socialmedia_link:hover, 
 .socialmedia_link:focus {
 background-color: var(--linkcolor);
+
 }
 .socialmedia_link:focus {
     background-color: var(--linkcolor);
@@ -437,7 +438,7 @@ background-color: var(--linkcolor);
 
 }
 .customer_link:hover , .custoomer_link:focus {
-    border: var(--linkcolor);
+    border-color: var(--linkcolor);
     color: var(--linkcolor);
 
 }
